@@ -1,6 +1,6 @@
 # AIChatBot - React Native with OPENAI API
 <img width="260" alt="Screenshot 2023-05-26 at 8 56 13 AM" src="https://github.com/iexcalibur/AIchat-native/assets/48850851/be17685a-cff1-4eec-8573-7298e39f884d">
-,
+
 <img width="250" alt="Screenshot 2023-05-26 at 8 55 20 AM" src="https://github.com/iexcalibur/AIchat-native/assets/48850851/493a9937-450b-4436-bc22-f388e28c77e2">
 
 <br/>
